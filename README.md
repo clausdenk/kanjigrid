@@ -1,6 +1,8 @@
 Kanji Grid
 ==========
 
+C. Denk 06/2020 - added Basic Kanji Book 1 & 2 data
+
 Improved/updated version of the original [Kanji Grid][0] addon for Anki 2.0.
 
 Differences from the original
